@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: restapi
+datasources:
+  default:
+    url: jdbc:sqlserver://DESKTOP-O79920D\\MSSQLSERVER1:1434;databaseName=employee;encrypt=true;trustServerCertificate=true
+    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    username: Anemoi	
+    password: Anemoi@123
